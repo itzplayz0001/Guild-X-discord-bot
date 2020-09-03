@@ -2,8 +2,8 @@
 
 Just nade it for a few friends
 
->>> npm i
+> npm i
 
->>> npm init
+> npm init
 
->>> npm i discord.js --save
+> npm i discord.js --save

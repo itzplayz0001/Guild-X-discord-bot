@@ -10,6 +10,10 @@ This bot has emotions, and talks to you
 > npm i discord.js --save
 
 # Keywords
-```Hello
+```
+Hello
 i gtg
-what's nlp?```
+what's nlp?
+helo
+hello
+```
